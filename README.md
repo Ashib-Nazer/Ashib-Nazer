@@ -33,10 +33,8 @@ Data enthusiast focused on transforming raw data into actionable insights throug
 
 ---
 
-### 📊 GitHub Stats
-
-![Ashib's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Ashib-Nazer&show_icons=true&theme=radial&hide_border=true)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Ashib-Nazer&layout=compact&theme=radial&hide_border=true)
+### 📊 GitHub Activity
+![Ashib's GitHub Contribution Grid](https://github-readme-streak-stats.herokuapp.com/?user=Ashib-Nazer&theme=dark&hide_border=true)
 
 ---
 
