@@ -1,23 +1,41 @@
-# Hi, I'm Ashib Nazer 👋
+Ashib Nazer
 
-Aspiring Data Analyst with skills in Python, SQL, Excel, Pandas, and Tableau.
+Aspiring Data Analyst | Python | SQL | Tableau | Excel
 
-## Projects
+I am an aspiring Data Analyst passionate about transforming raw data into meaningful insights. My focus is on data cleaning, exploratory data analysis, dashboard development, and business intelligence using Python, SQL, Excel, Pandas, and Tableau.
 
-🏥 Apollo Hospitals Stock Analysis
-📈 Adani Enterprises Stock Analysis
-🛒 Online Retail Sales Analysis
+Featured Projects
 
-## Technical Skills
+Apollo Hospitals Stock Performance Analysis
 
-- Python
-- SQL (PostgreSQL)
-- Excel
-- Pandas
-- NumPy
-- Tableau
-- Git & GitHub
+* Analyzed 10 years of stock market data (2016–2026)
+* Calculated CAGR, growth trends, and investor performance metrics
+* Developed an interactive Tableau dashboard and business report
 
-## Connect With Me
+Adani Enterprises Stock Analysis
 
-LinkedIn: https://linkedin.com/in/your-linkedin-id
+* Performed historical stock trend analysis
+* Generated insights on long-term market performance
+* Built visual dashboards for data-driven interpretation
+
+Online Retail Sales Analysis
+
+* Analyzed customer behavior and sales performance
+* Identified revenue trends and top-performing products
+* Created interactive dashboards for business insights
+
+Technical Skills
+
+Python • SQL • Excel • Pandas • NumPy • Tableau • PostgreSQL • Git • GitHub
+
+Current Focus
+
+* Advanced SQL
+* Data Analytics Interview Preparation
+* Business Intelligence & Dashboard Design
+* Real-World Analytics Projects
+
+Connect With Me
+
+LinkedIn: [Your LinkedIn URL]
+GitHub: github.com/Ashib-Nazer
