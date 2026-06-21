@@ -38,6 +38,14 @@ Data enthusiast focused on transforming raw data into actionable insights throug
 
 ---
 
+### 📊 GitHub Activity
+
+![Ashib's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Ashib-Nazer&show_icons=true&theme=dark&hide_border=true)
+
+![Ashib's GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Ashib-Nazer&theme=dark&hide_border=true)
+
+---
+
 ### 🤝 Connect with Me
 
 <a href="https://linkedin.com/in/ashib-nazer" target="_blank">
